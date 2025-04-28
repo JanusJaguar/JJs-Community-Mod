@@ -35,20 +35,20 @@ Thank you.
 
 ***Initial Release***
 1. Skirmish
-  - More Skirmish Color Choices
-  - More Starting Money Choices
-  - Enabled Boss General
-  - 
+   - More Skirmish Color Choices
+   - More Starting Money Choices
+   - Enabled Boss General
+   - 
 2. New Buildables
-  - Naval Yard
-  - 
+   - Naval Yard
+   - 
 3. Weapons
-  - SCUD/Tomahawk Cluster Missile
-  - Flame Thrower Infantry
-  - Knife Infantry (button)
+   - SCUD/Tomahawk Cluster Missile
+   - Flame Thrower Infantry
+   - Knife Infantry (auto/button)
 4. Scripting 
-  - USA Laser Missile (Auto)
-  - 
+   - USA Laser Missile (Auto)
+   - 
 
 5. Mod Cannibalisation
 * ControlBar/UI

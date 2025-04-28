@@ -31,24 +31,35 @@ Move the .BIG archive into your Zero Hour Directory
 Thank you.
 
 ### Update History
---Alpha Release--
+~~Alpha Release~~
 
 ***Initial Release***
 1. Skirmish
    - More Skirmish Color Choices
    - More Starting Money Choices
    - Enabled Boss General
-   - 
+   - 8 General Ranks
 2. New Buildables
    - Naval Yard
-   - 
+     - Each side has something
+   - Super Units (General Rank based units)
+     - (refer to Modding Manual)
+   - Sandbag (Garrisonable)
 3. Weapons
    - SCUD/Tomahawk Cluster Missile
-   - Flame Thrower Infantry
-   - Knife Infantry (auto/button)
+   - Sandbag (Button)
+   - Red Army- Flame Thrower Infantry
+   - Black Lotus- Internet Hacking ($$$)
+   - Black Lotus- Bomb/Mine placement
+   - 
+   - Jarman Kell- Kill Pilots Too
+   - Pathfinder- Snipe Garrisoned Buildings
+   - 
 4. Scripting 
    - USA Laser Missile (Auto)
-   - 
+   - China Bayonet Charge (Button)
+   - HiJackers Hijack?
+   - ~~Hackers hack~~
 
 5. Mod Cannibalisation
 * ControlBar/UI
@@ -58,3 +69,8 @@ Thank you.
 
 * AI **HARDER**
   - [Advanced AI mod for Zero Hour improved by AEI](https://www.moddb.com/mods/advanced-ai-mod-for-zero-hour-improved-by-aei)
+
+
+### Future Plans
+~~1. more weapon choices (buttons)~~
+~~2. idk~~

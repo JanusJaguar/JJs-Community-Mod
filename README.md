@@ -30,31 +30,46 @@ Thank you.
 1. Skirmish
    - More Skirmish Color Choices
    - More Starting Money Choices
-   - Enabled Boss General
+   - Enabled "Boss" General
+   - Enabled "Admiral Z"
    - 8 General Ranks
+     - Resulting in more points
+   - Harder AI
 2. New Buildables
    - Naval Yard
      - Each side has something
-   - Super Units (General Rank based units)
+   - Super Units (Rank prerequisited)
      - (refer to Modding Manual)
-   - Sandbag (Garrisonable)
-3. Weapons
+   - Sandbag Ability (Garrisonable)
+   - Varied versions of Current SuperWeapons & Powers
+     - More Paradrops; Buy Upgrades; More Themed powers
+   - 
+3. ini Changes
+- A. Weapons
    - SCUD/Tomahawk Cluster Missile
    - Sandbag (Button)
    - Red Army- Flame Thrower Infantry
+   - Red Army- Bayonet (Switch)
    - Black Lotus- Internet Hacking ($$$)
    - Black Lotus- Bomb/Mine placement
    - 
    - Jarman Kell- Kill Pilots Too
    - Pathfinder- Snipe Garrisoned Buildings
-   - 
+     - Air Strike Confirmed
+   - b
+- B. Units
+  - Buildable Navy
+    - PT Boat; Battleship; 'Working' AirCraft Carrier 
+  - "varied builds" of vanilla units
+    - "Random Unit" mechanic
+  - 
 4. Scripting 
    - USA Laser Missile (Auto)
    - China Bayonet Charge (Button)
    - HiJackers Hijack?
    - ~~Hackers hack~~
 
-5. Mod Cannibalisation
+5. Mod Cannibalisation - Credits
 * ControlBar/UI
   - [ControlBar Pro](https://www.gamereplays.org/cnczerohour/portals.php?show=page&name=control-bar-pro-by-fas-and-xezon))
   - [Operation Firestorm Wide screen](https://www.moddb.com/mods/operation-firestorm/addons/widescreen-for-zero-hour)

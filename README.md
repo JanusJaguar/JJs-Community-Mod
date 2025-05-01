@@ -15,18 +15,24 @@ Eventually, I plan to incorporate every aspect of the modding manual into this m
 ## The Objective of this Community Mod;
 
 1. Share my work on the 100th tutorial with you
-2. For YOU to use as a foundation pointto which own modding creations
+2. For YOU to use as a foundation point, from which your own modding creations can sprout 🌱 
 3. A small shortcut for some minor QOL updates
 4. Maybe creating this Mod & Tutorial will introduce more into:
    - Modding Command & Conquer
    - My YouTube Tutorials, Tutorial Suggestion/ideas & Discord
 
-Thank you.
+If you would like to contribute, or donate anything to the Mod - by all means, Contact me.  
+Any ideas, Thank You and please Contact me.
+
 
 ### Update History
 ~~Alpha Release~~
 
 ***Initial Release***
+
+**Most of these will strictly apply to Boss & Admiral Z**
+**Later Updates will effect other factions**
+
 1. Skirmish
    - More Skirmish Color Choices
    - More Starting Money Choices
@@ -62,7 +68,7 @@ Thank you.
     - PT Boat; Battleship; 'Working' AirCraft Carrier 
   - "varied builds" of vanilla units
     - "Random Unit" mechanic
-  - 
+  - More Unit Upgrades
 4. Scripting 
    - USA Laser Missile (Auto)
    - China Bayonet Charge (Button)

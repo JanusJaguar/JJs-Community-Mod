@@ -90,7 +90,7 @@ Any ideas, Thank You and please Contact me.
 ~~1. more weapon choices (buttons)~~
 ~~2. idk~~
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://live.staticflickr.com/65535/54505764117_3709de071f_b.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://live.staticflickr.com/65535/54505764117_3709de071f_b.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://live.staticflickr.com/65535/54505764117_3709de071f_b.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://live.staticflickr.com/65535/54506646056_a1e21db0e0_b.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://live.staticflickr.com/65535/54506646056_a1e21db0e0_b.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://live.staticflickr.com/65535/54506646056_a1e21db0e0_b.jpg">
 </picture>

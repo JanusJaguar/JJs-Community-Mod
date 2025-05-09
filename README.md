@@ -89,3 +89,8 @@ Any ideas, Thank You and please Contact me.
 ### Future Plans
 ~~1. more weapon choices (buttons)~~
 ~~2. idk~~
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://live.staticflickr.com/65535/54505764117_3709de071f_b.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://live.staticflickr.com/65535/54505764117_3709de071f_b.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://live.staticflickr.com/65535/54505764117_3709de071f_b.jpg">
+</picture>

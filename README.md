@@ -51,6 +51,7 @@ Any ideas, Thank You and please Contact me.
    - Varied versions of Current SuperWeapons & Powers
      - More Paradrops; Buy Upgrades; More Themed powers
    - 
+     
 3. ini Changes
 - A. Weapons
    - Cluster Missile
@@ -59,12 +60,17 @@ Any ideas, Thank You and please Contact me.
    - Red Army- Bayonet (Switch)
    - 
    - Black Lotus- Internet Hacking ($$$)
-   - Black Lotus- Bomb/Mine placement\
+   - Black Lotus- Bomb/Mine placement
+   - 
    - USA Laser Rangers
    - USA Ranger Flash Bang Variety
    - Pathfinder- Snipe Garrisoned Buildings
-     - Air Strike Confirmed\
-   - Jarman Kell- Kill Pilots Too\
+     - Air Strike
+   - Col Burton
+     - Air Support Ability
+     - Air Strike
+   -
+   - Jarman Kell- Kill Pilots Too
      
 - B. Units
   - Buildable Navy

@@ -53,23 +53,36 @@ Any ideas, Thank You and please Contact me.
    - 
 3. ini Changes
 - A. Weapons
-   - SCUD/Tomahawk Cluster Missile
+   - Cluster Missile
    - Sandbag (Button)
+     
    - Red Army- Flame Thrower Infantry
    - Red Army- Bayonet (Switch)
+   - 
    - Black Lotus- Internet Hacking ($$$)
    - Black Lotus- Bomb/Mine placement
-   - 
-   - Jarman Kell- Kill Pilots Too
+     
+   - USA Laser Rangers
+   - USA Ranger Flash Bang Variety
    - Pathfinder- Snipe Garrisoned Buildings
      - Air Strike Confirmed
-   - b
+   -
+  
+   - Jarman Kell- Kill Pilots Too
+     
 - B. Units
   - Buildable Navy
     - PT Boat; Battleship; 'Working' AirCraft Carrier 
   - "varied builds" of vanilla units
-    - "Random Unit" mechanic
   - More Unit Upgrades
+- C. Abilities
+    - Black Lotus Hacks internet
+    - Pathfinder AirStrikes
+    - 
+    - 
+- D. Sounds
+      - Original Recordings 
+  
 4. Scripting 
    - USA Laser Missile (Auto)
    - China Bayonet Charge (Button)
@@ -94,3 +107,5 @@ Any ideas, Thank You and please Contact me.
  <source media="(prefers-color-scheme: light)" srcset="https://live.staticflickr.com/65535/54506646056_a1e21db0e0_b.jpg">
  <img alt="YOUR-ALT-TEXT" src="https://live.staticflickr.com/65535/54506646056_a1e21db0e0_b.jpg">
 </picture>
+
+#Admiral Z

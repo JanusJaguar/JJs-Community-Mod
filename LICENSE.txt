@@ -2,4 +2,73 @@ Mod is in an "As in" state
 It should always be considered "Beta" state  
 
 
-Animated Graphics by discord member "Hacker".
+Animated "Janus Syndacate" Graphics by discord member "Hacker".
+
+Credits
+
+***Added Assets
+
+China
+
+BattleLord Tank: http://www.ppmsite.com/forum/viewtopic.php?t=26364
+Model: ruby92
+Textures by: ChadaFace/EA.
+
+Double-barrelled Battlemaster : http://www.ppmsite.com/forum/viewtopic.php?p=370105#370105
+ Made by : Creator
+ E-Mail  : pestryakov@rambler.ru
+ 
+Tripple Barrelled Inferno Cannon : http://www.ppmsite.com/forum/viewtopic.php?p=370108#370108
+ Author : Creator
+ E-Mail : pestryakov@rambler.ru
+
+Zuzana Artillery: https://ppmforums.com/topic-27534/zuzana-artillery/
+Model By Timmy-DaFool-French
+Texturing by Timmy-DaFool-French
+
+USA
+
+USA Dual Gun Turret: https://ppmforums.com/topic-26723/usa-dual-gun-turret/
+Export-DaFool
+Model/textures-Tony
+
+Paladin Tank alternative: https://ppmforums.com/topic-33635/usa-paladin-tank-alternative/
+CREDIT:The-Light or TheLightLOD
+
+Guardian Tank: http://www.ppmsite.com/forum/viewtopic.php?t=26363
+Model: ruby92
+Textures by: ChadaFace/EA.
+
+MLRS : http://www.ppmsite.com/forum/viewtopic.php?p=370111#370111
+ Authors : Creator (pestryakov@rambler.ru)
+           Sleipnir (http://www.sleipnirstuff.com)
+
+RAH-66 Comanche: https://ppmforums.com/topic-36206/rah-66-comanche/
+Credit goes to : OutcastOne
+
+
+M60-2000 (120S) Tank: https://ppmforums.com/topic-63335/m60-2000-120s-tank/
+by sgtmyers88
+
+
+GLA
+
+Quad Tank: http://www.ppmsite.com/forum/viewtopic.php?t=26389
+  Author : Creator
+  E-Mail : pestryakov@rambler.ru
+  
+Rocket Truck : http://www.ppmsite.com/forum/viewtopic.php?p=370109#370109
+Made by JustWest.
+
+GDI
+
+Talon: https://ppmforums.com/topic-26575/gdi-talon/
+Model created by DaFool
+
+****
+Mods Cannbalized:
+- [Operation Firestorm Wide screen](https://www.moddb.com/mods/operation-firestorm/addons/widescreen-for-zero-hour)
+    - 18 Button Version
+- Advanced AI Mod
+    - Edited by Janus Jaguar
+***

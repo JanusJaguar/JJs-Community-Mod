@@ -54,21 +54,17 @@ Any ideas, Thank You and please Contact me.
 3. ini Changes
 - A. Weapons
    - Cluster Missile
-   - Sandbag (Button)
-     
+   - Sandbag (Button)\
    - Red Army- Flame Thrower Infantry
    - Red Army- Bayonet (Switch)
    - 
    - Black Lotus- Internet Hacking ($$$)
-   - Black Lotus- Bomb/Mine placement
-     
+   - Black Lotus- Bomb/Mine placement\
    - USA Laser Rangers
    - USA Ranger Flash Bang Variety
    - Pathfinder- Snipe Garrisoned Buildings
-     - Air Strike Confirmed
-   -
-  
-   - Jarman Kell- Kill Pilots Too
+     - Air Strike Confirmed\
+   - Jarman Kell- Kill Pilots Too\
      
 - B. Units
   - Buildable Navy
